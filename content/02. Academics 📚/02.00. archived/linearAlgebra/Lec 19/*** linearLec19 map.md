@@ -1,0 +1,2 @@
+- 19: low rank approximations
+	- motivation: main use of SVD in practice is to approx data by a low rank matrix

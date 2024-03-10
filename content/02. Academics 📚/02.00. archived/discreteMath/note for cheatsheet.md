@@ -1,0 +1,13 @@
+- how to find inject surject
+- ways to present induction
+- extended gcd
+- [[MATH2020 (Lec 06) - Divisibility and GCD#Lemma 7|find gcd(a,b)]]
+- find RSA encryption for the block letter encryption
+	- encoded message ^ e mod N
+---
+- road to final exercises
+	- final mocktest
+	- an extended gcd
+	- a decrypt & encrypt exercise
+	- **exponential modulo calculation**
+	- dfa, nfa

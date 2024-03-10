@@ -1,0 +1,3 @@
+- Phillips Curve
+- Raise interest rate → save up & less loan borrowing → people buying less → company's products have less demand → increase in unemployment => slowing the economy
+- Money growth is the ultimate source of inflation

@@ -1,0 +1,2 @@
+- If have exactly n distinct elements in set S, n is nonnegative integer -> S is a finite set, n is cardinality (number of elements) of S (denoted as $|S|$)
+- $\mathcal{P}(\{0, 1, 2\}) = \{\emptyset, \{0\}, \{1\}, \{2\}, \{0, 1\}, \{1, 2\}, \{0, 2\}, \{0, 1, 2\}\}$
